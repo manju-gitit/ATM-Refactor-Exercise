@@ -1,0 +1,14 @@
+input {
+    background-color: whitesmoke;
+    border: 6px solid #0ff166;
+    border-radius: 10px;
+    width: 150px;
+    text-decoration: solid;
+  }
+  
+  select {
+    display: block;
+    margin-bottom: 20px;
+    border-color: #0ff166;
+  }
+  
